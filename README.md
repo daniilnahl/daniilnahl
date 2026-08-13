@@ -15,7 +15,7 @@
 
 5. [Mini Projects](https://github.com/daniilnahl/Mini-Projects) -> Collection of smaller projects: a C++ paycheck budgeting tool exporting to Excel, plus two Arduino TinyML exercises. Tech: C++/CMake, OpenXLSX, Arduino, Edge Impulse.
 
-6. [DJRTrailFinder](https://github.com/RileyHop1/DJRTrailFinder) (hackathon) -> Built the Rust/MongoDB backend with full CRUD and unit tests made for a hiking-trail/group-organizing app. Tech: Rust, Tauri, MongoDB.
+6. [DJRTrailFinder](https://github.com/RileyHop1/DJRTrailFinder) (QuackHacks, hackathon) -> Built the Rust/MongoDB backend with full CRUD and unit tests made for a hiking-trail/group-organizing app. Tech: Rust, Tauri, MongoDB.
 
 ### Socials 
 - [LinkedIn](https://www.linkedin.com/in/daniil-nahliuk-4213aa322/)
