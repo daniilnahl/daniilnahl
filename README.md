@@ -1,6 +1,7 @@
 ## Hi 👋 I'm Daniil Nahliuk
 
-- 🔭 **Currently**: Embedded Systems Intern @ Idaho National Laboratory's Cybercore Integration Center.
+- 🔭 **Experiences**:
+  1. Jun. - Sept. 2026, Embedded Systems Intern @ Idaho National Laboratory's Cybercore Integration Center.
 - 🌱 **Researching**: Federated Learning-based Intrusion Detection Systems (FL-IDS) for Resource Constrained Devices, SESAIS Lab, University of Washington Tacoma.
 - 🎓 **University**: Computer Engineering + Computer Science, University of Washington Tacoma (Class of 2027)
 
