@@ -14,9 +14,13 @@
 
 4. [Stock Tracking App](https://github.com/daniilnahl/Stock-Tracking-App) -> Python CLI for tracking stock watchlists: add/remove tickers, pull live data, visualize performance. Tech: Python, Typer, Rich, Financial Modeling Prep API.
 
-5. [Mini Projects](https://github.com/daniilnahl/Mini-Projects) -> Collection of smaller projects: a C++ paycheck budgeting tool exporting to Excel, plus two Arduino TinyML exercises. Tech: C++/CMake, OpenXLSX, Arduino, Edge Impulse.
+5. [DJRTrailFinder](https://github.com/RileyHop1/DJRTrailFinder) (QuackHacks, hackathon) -> Built the Rust/MongoDB backend with full CRUD and unit tests made for a hiking-trail/group-organizing app. Tech: Rust, Tauri, MongoDB.
 
-6. [DJRTrailFinder](https://github.com/RileyHop1/DJRTrailFinder) (QuackHacks, hackathon) -> Built the Rust/MongoDB backend with full CRUD and unit tests made for a hiking-trail/group-organizing app. Tech: Rust, Tauri, MongoDB.
+6. [Mini Projects](https://github.com/daniilnahl/Mini-Projects) -> Collection of smaller software and embedded systems projects:
+    - Paycheck Budgeting App: C++ budgeting tool with Excel export.
+    - Arduino TinyML: Motion and keyword detection using Edge Impulse.
+    - Linux Custom System Call: Implemented and tested a custom ARM64 Linux syscall on a Raspberry Pi 3B+.
+    - STM32H743 GPIO Control: Register-level RGB LED sequencing and push-button input on an ARM Cortex-M7 microcontroller.
 
 ### Socials 
 - [LinkedIn](https://www.linkedin.com/in/daniil-nahliuk-4213aa322/)
