@@ -5,6 +5,8 @@
 - 🌱 **Researching**: Federated Learning-based Intrusion Detection Systems (FL-IDS) for Resource Constrained Devices, SESAIS Lab, University of Washington Tacoma.
 - 🎓 **University**: Computer Engineering + Computer Science, University of Washington Tacoma (Class of 2027)
 
+---
+
 ### Projects
 1. [AQMod — Air Quality Module](https://github.com/daniilnahl/AQMod) -> ESP32-S3 air quality monitor (BMP280/MQ-9/SEN54) with FreeRTOS, BLE, and on-device TinyML classification for real-time inference. Tech: ESP32-S3, FreeRTOS, Edge Impulse, I2C, BLE.
 
@@ -21,6 +23,8 @@
     - Arduino TinyML: Motion and keyword detection using Edge Impulse.
     - Linux Custom System Call: Implemented and tested a custom ARM64 Linux syscall on a Raspberry Pi 3B+.
     - STM32H743 GPIO Control: Register-level RGB LED sequencing and push-button input on an ARM Cortex-M7 microcontroller.
+
+---
 
 ### Socials 
 - [LinkedIn](https://www.linkedin.com/in/daniil-nahliuk-4213aa322/)
