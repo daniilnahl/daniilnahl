@@ -5,7 +5,7 @@
   2. Jan. - Jun. 2026, Research Assistant @ [Software Engineering for Secure AI-based Systems Research Lab](https://faculty.washington.edu/dctorre/sesais.html)
 
 - 🎓 **University**:
-  1. Computer Engineering + Computer Science @ University of Washington (current student)
+  1. Computer Engineering @ University of Washington (current student)
 
 ---
 
